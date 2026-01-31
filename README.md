@@ -18,7 +18,7 @@ This profile is a collection of my analytics projects, experiments, and coursewo
 
 ### A Bit About Me
 - 🎬 I love watching movies  
-- 🧠 I enjoy thinking through problems before jumping to solutions
-- ✨ I like learning tools that make data easier to understand
+- 🧠 I like thinking through problems before jumping to solutions
+- ✨ I enjoy learning tools that make data easier to understand
 
 
